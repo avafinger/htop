@@ -11,7 +11,7 @@ htop with CPU Freq and CPU Temp
 # arm64
 [![htop](https://github.com/avafinger/htop/raw/master/img/arm64-htop-2.1.0-2.png)]
 
-[![htop](https://github.com/avafinger/htop/raw/master/img/arm64-htop-2.1.0.png)]
+[![htop](https://github.com/avafinger/htop/raw/master/img/arm-64-htop-2.1.0.png)]
 
 # armhf
 
