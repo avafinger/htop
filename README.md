@@ -9,11 +9,12 @@ htop with CPU Freq and CPU Temp
 
 # arm64
 
-#Ubuntu 18.04
+* Ubuntu 18.04
 
 Installing **htop**:
 
-	sudo dpkg -i ../htop_2.1.0-3_arm64.deb 
+	sudo dpkg -i ./htop_2.1.0-3_arm64.deb 
+
 
 [![htop](https://github.com/avafinger/htop/raw/master/img/arm64-htop-2.1.0-2.png)]
 
@@ -21,21 +22,31 @@ Installing **htop**:
 
 [![htop](https://github.com/avafinger/htop/raw/master/img/arm64-htop-f3.png)]
 
-#Ubuntu 16.04
+
+* Ubuntu 16.04
 
 Installing **htop**:
 
-	sudo dpkg -i ../htop_2.0.1-1ubuntu1_amd64.deb 
+	sudo dpkg -i ./htop_2.0.1-1ubuntu1_amd64.deb 
+
 
 # armhf
 
 
 
 # amd64
+
+* Ubuntu 16.04
+
+Installing **htop**:
+
+	sudo dpkg -i ./htop_2.0.1-1ubuntu1_amd64.deb 
+
+
 [![htop](https://github.com/avafinger/htop/raw/master/img/amd64-htop-2.0.1.png)]
 
 
-#Uninstalling
+# Uninstalling
 
 If you want to restore the stock package for any reason, type in shell:
 
