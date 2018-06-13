@@ -22,7 +22,8 @@ Installing **htop**:
 
 [![htop](https://github.com/avafinger/htop/raw/master/img/arm64-htop-f3.png)]
 
-M64 under high workoad and kernel 4.4.89+
+M64 under high load and building kernel 4.4.89+
+
 [![htop](https://github.com/avafinger/htop/raw/master/img/m64_build.png)]
 
 
